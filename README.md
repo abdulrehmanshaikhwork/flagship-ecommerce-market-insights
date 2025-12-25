@@ -55,6 +55,9 @@ A few very expensive products stretch the tail upward
 
 ➡️ This indicates a price-sensitive market driven by affordable offerings.
 
+### 📊 Visual
+![Market Price Distribution](Images/Market_Price_Distribution.png)
+
 ---
 
 ### 2️⃣ Number of Products per Price Category
@@ -69,6 +72,10 @@ Premium and Luxury categories exist — but represent smaller market shares.
 
 ➡️ This shows where companies compete most aggressively.
 
+### 📊 Visual
+![Number of Products per Price Category
+](Images/Number_of_Products_per_Price_Segment.png)
+
 ---
 
 ### 3️⃣ Price vs Star Rating
@@ -82,6 +89,9 @@ Customer ratings remain consistently high across price levels:
 
 ➡️ Satisfaction is not purely price-driven.
 
+### 📊 Visual
+![Price vs Star Rating](Images/Price_vs_Rating.png)
+
 ---
 
 ### 4️⃣ Price vs Rating (with Trend Line)
@@ -92,6 +102,9 @@ A slight positive trend exists — meaning Premium products rate slightly higher
 but the relationship remains weak overall.
 
 ➡️ Customers judge value & experience, not just cost.
+
+### 📊 Visual
+![Price vs Rating (with Trend Line)](Images/Price_vs_Rating_with_trend.png)
 
 ---
 
@@ -104,6 +117,9 @@ There is no clear relationship between discount percentage and rating.
 ➡️ Discounts help sales conversions —
 but do not improve long-term product perception.
 
+### 📊 Visual
+![Discount vs Rating](Images/Relation_Discount_Rating.png)
+
 ---
 
 ### 6️⃣ Average Star Rating by Price Category
@@ -113,6 +129,10 @@ but do not improve long-term product perception.
 All price categories show high customer satisfaction, with only a small increase at higher price tiers.
 
 ➡️ Value perception exists across all segments.
+
+### 📊 Visual
+![Average Star Rating by Price Category
+](Images/Average_Star_Rating_by_Price_Category.png)
 
 ---
 
@@ -126,6 +146,10 @@ Most ratings fall between 4.2–4.6, revealing:
 ✔ Customers review more when satisfied
 
 ➡️ This aligns with common marketplace behavior.
+
+### 📊 Visual
+![Customer Rating Distribution
+](Images/Customer_Rating_Distribution.png)
 
 ---
 
