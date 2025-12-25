@@ -43,7 +43,9 @@ Below are the key visualizations and insights generated in the notebook.
 
 ### 1️⃣ Market Price Distribution
 
-🔍 Insight
+----
+
+#### 🔍 Insight
 
 The market shows a right-skewed price distribution:
 
