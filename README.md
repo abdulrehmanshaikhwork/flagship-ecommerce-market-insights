@@ -158,12 +158,12 @@ It reflects the type of analytics used by business, strategy, and product teams.
 ---
 
 ## 📂 Repository Structure
-data/
-notebooks/
-scripts/
-requirements.txt
+Data/
+Images/
+Notebook/
 README.md
 LICENSE
+requirements.txt
 
 ---
 
