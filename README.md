@@ -41,7 +41,7 @@ Python · BeautifulSoup · Pandas · NumPy · Matplotlib · Seaborn · Jupyter N
 
 Below are the key visualizations and insights generated in the notebook.
 
------
+---
 
 ### 1️⃣ Market Price Distribution
 
@@ -55,7 +55,7 @@ A few very expensive products stretch the tail upward
 
 ➡️ This indicates a price-sensitive market driven by affordable offerings.
 
------
+---
 
 ### 2️⃣ Number of Products per Price Category
 
@@ -69,7 +69,7 @@ Premium and Luxury categories exist — but represent smaller market shares.
 
 ➡️ This shows where companies compete most aggressively.
 
------
+---
 
 ### 3️⃣ Price vs Star Rating
 
@@ -82,7 +82,7 @@ Customer ratings remain consistently high across price levels:
 
 ➡️ Satisfaction is not purely price-driven.
 
------
+---
 
 ### 4️⃣ Price vs Rating (with Trend Line)
 
@@ -93,7 +93,7 @@ but the relationship remains weak overall.
 
 ➡️ Customers judge value & experience, not just cost.
 
------
+---
 
 ### 5️⃣ Discount vs Rating
 
@@ -104,7 +104,7 @@ There is no clear relationship between discount percentage and rating.
 ➡️ Discounts help sales conversions —
 but do not improve long-term product perception.
 
------
+---
 
 ### 6️⃣ Average Star Rating by Price Category
 
@@ -114,7 +114,7 @@ All price categories show high customer satisfaction, with only a small increase
 
 ➡️ Value perception exists across all segments.
 
------
+---
 
 ### 7️⃣ Customer Rating Distribution
 
