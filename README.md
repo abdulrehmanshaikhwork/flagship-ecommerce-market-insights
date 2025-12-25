@@ -43,8 +43,6 @@ Below are the key visualizations and insights generated in the notebook.
 
 ### 1️⃣ Market Price Distribution
 
-----
-
 #### 🔍 Insight
 
 The market shows a right-skewed price distribution:
@@ -57,7 +55,7 @@ A few very expensive products stretch the tail upward
 
 ### 2️⃣ Number of Products per Price Category
 
-🔍 Insight
+#### 🔍 Insight
 
 Most products belong to the:
 
@@ -69,7 +67,7 @@ Premium and Luxury categories exist — but represent smaller market shares.
 
 ### 3️⃣ Price vs Star Rating
 
-🔍 Insight
+#### 🔍 Insight
 
 Customer ratings remain consistently high across price levels:
 
@@ -80,7 +78,7 @@ Customer ratings remain consistently high across price levels:
 
 ### 4️⃣ Price vs Rating (with Trend Line)
 
-🔍 Insight
+#### 🔍 Insight
 
 A slight positive trend exists — meaning Premium products rate slightly higher —
 but the relationship remains weak overall.
@@ -89,7 +87,7 @@ but the relationship remains weak overall.
 
 ### 5️⃣ Discount vs Rating
 
-🔍 Insight
+#### 🔍 Insight
 
 There is no clear relationship between discount percentage and rating.
 
@@ -98,7 +96,7 @@ but do not improve long-term product perception.
 
 ### 6️⃣ Average Star Rating by Price Category
 
-🔍 Insight
+#### 🔍 Insight
 
 All price categories show high customer satisfaction, with only a small increase at higher price tiers.
 
@@ -106,7 +104,7 @@ All price categories show high customer satisfaction, with only a small increase
 
 ### 7️⃣ Customer Rating Distribution
 
-🔍 Insight
+#### 🔍 Insight
 
 Most ratings fall between 4.2–4.6, revealing:
 
